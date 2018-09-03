@@ -10230,7 +10230,7 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\std52@class.univ\Desktop\s12\src\polyfills.ts */"./src/polyfills.ts");
+module.exports = __webpack_require__(/*! C:\Users\lab\desktop\s12\src\polyfills.ts */"./src/polyfills.ts");
 
 
 /***/ })
