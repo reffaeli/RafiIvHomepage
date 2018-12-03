@@ -621,9 +621,9 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\lab\desktop\s16\src\styles.css */"./src/styles.css");
-__webpack_require__(/*! C:\Users\lab\desktop\s16\node_modules\bootstrap\dist\css\bootstrap.min.css */"./node_modules/bootstrap/dist/css/bootstrap.min.css");
-module.exports = __webpack_require__(/*! C:\Users\lab\desktop\s16\assets\css\bootstrap.min.css */"./assets/css/bootstrap.min.css");
+__webpack_require__(/*! C:\Users\r\desktop\s16\src\styles.css */"./src/styles.css");
+__webpack_require__(/*! C:\Users\r\desktop\s16\node_modules\bootstrap\dist\css\bootstrap.min.css */"./node_modules/bootstrap/dist/css/bootstrap.min.css");
+module.exports = __webpack_require__(/*! C:\Users\r\desktop\s16\assets\css\bootstrap.min.css */"./assets/css/bootstrap.min.css");
 
 
 /***/ })
